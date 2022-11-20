@@ -1,0 +1,96 @@
+.uwu {
+    color: #DC143C;
+    align-items: center;
+}
+
+div {
+    height: auto;
+    background: linear-gradient(45deg, #FF00FF, #FF00FF, #4B0082, #800080, #FFFFFF);
+    align-items: center;
+}
+
+.go_btn {
+    width: 75px;
+    height: 30px;
+    color: pink;
+    background:  #FF4500;
+    align-items: center;
+    border-color: #FF00FF;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.go_btn:active {
+    width: 150px;
+    height: 50px;
+    color: pink;
+    background: deeppink;
+    align-items: center;
+    border-color: deeppink;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.go_btn:hover {
+    width: 75px;
+    height: 30px;
+    color: pink;
+    background: linear-gradient(45deg, #FF00FF, #FF00FF, #4B0082, #800080, #FFFFFF);
+    align-items: center;
+    border-color: linear-gradient(45deg, #FF00FF, #FF00FF, #4B0082, #800080, #FFFFFF);
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+text {
+    color: lightpink;
+    font-size: 18px;
+}
+
+.text {
+    color: darkslategray;
+    font-size: 18px;
+}
+
+.text:hover {
+    color: orangered;
+    font-size: 28px;
+}
+
+.go_go_btn {
+    width: 100px;
+    height: 45px;
+    color: pink;
+    background:  #FF4500;
+    align-items: center;
+    border-color: #FF00FF;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.go_go_btn:hover {
+    width: 100px;
+    height: 45px;
+    color: pink;
+    background: linear-gradient(50deg, #FF00FF, #FF00FF, #4B0082, #800080, #FFFFFF);
+    align-items: center;
+    border-color: linear-gradient(50deg, #FF00FF, #FF00FF, #4B0082, #800080, #FFFFFF);
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+.go_go_btn:active {
+    width: 100px;
+    height: 45px;
+    color: pink;
+    background: deeppink;
+    align-items: center;
+    border-color: deeppink;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+
+
+
+
